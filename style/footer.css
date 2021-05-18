@@ -1,0 +1,36 @@
+.footer__content {
+  height: 385px;
+  background: #232323;
+}
+
+.footer__logo-image {
+  width: 100px;
+  height: 100px;
+  padding: 38px 667px 23px 670px;
+}
+
+.footer__logo {
+  font-size: 38px;
+  line-height: 38px;
+  letter-spacing: 1.1px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  padding:0px 534px 23px 534px;
+}
+
+.footer__icons {
+  width: 200.09px;
+  height: 22.22px;
+  padding:0px 619px 41px 620px;
+}
+
+.footer_avthor {
+  height: 92px;
+  background: #323232;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 1.5px;
+  color: #FFFFFF;
+  padding: 35px 533px 37px 533px;
+  
+  }
